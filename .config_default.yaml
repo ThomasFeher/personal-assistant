@@ -1,0 +1,12 @@
+---
+assistant: {
+  name: Assistant  # the name of the assistant
+}
+user: {
+  name: User  # how the user shall be called by the assistant
+}
+# Optional: Calendars available through a specific URL might be
+# configured like this:
+calendar: {
+  url: https://mycalendar.com/calendar.ics
+}
